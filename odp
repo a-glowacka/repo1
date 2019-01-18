@@ -1,1 +1,1 @@
-
+#sledzone sa wszyskie pliki bez rozszerzenia .dat. Git ignoruje pliki z rozszerzeniem .dat z powodu podanej specyfikacji w .gitignore
